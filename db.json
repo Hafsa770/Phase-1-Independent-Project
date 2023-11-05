@@ -1,0 +1,46 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "dish_name": "Ugali",
+      "description": "A staple Kenyan dish made from maize flour cooked with water to a dough-like consistency. Served with your choice of stew or sauce.",
+      "price": 10.99,
+      "cuisine": "Kenyan"
+    },
+    {
+      "id": 2,
+      "dish_name": "Rice",
+      "description": "A fragrant Somali rice dish cooked with spices, typically served with meat, vegetables, and salad.",
+      "price": 12.99,
+      "cuisine": "Somali"
+    },
+    {
+      "id": 3,
+      "dish_name": "Pastries",
+      "description": "Savory triangular pastries filled with minced meat, onions, and various spices. A popular snack in both Kenyan and Somali cuisine.",
+      "price": 5.99,
+      "cuisine": "Kenyan, Somali"
+    },
+    {
+      "id": 4,
+      "dish_name": "Grilled Meat",
+      "description": "Grilled meat (commonly goat or beef) marinated in Kenyan and Somali spices. Served with a side of vegetables or bread.",
+      "price": 15.99,
+      "cuisine": "Kenyan, Somali"
+    },
+    {
+      "id": 5,
+      "dish_name": "Doughnut",
+      "description": "Sweet, fried East African doughnut, often served as a snack or dessert.",
+      "price": 6.99,
+      "cuisine": "Kenyan, Somali"
+    },
+    {
+      "id": 6,
+      "dish_name": "Pancake",
+      "description": "Somali pancake-like bread, often eaten at breakfast, served with honey or stew.",
+      "price": 8.99,
+      "cuisine": "Somali"
+    }
+  ]
+}
